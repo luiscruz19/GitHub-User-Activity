@@ -1,0 +1,15 @@
+{
+  "name": "github-activity-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "github-activity": "./bin/github-activity-cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
