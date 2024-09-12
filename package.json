@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "bin": {
-    "github-activity": "./bin/github-activity-cli.js"
+    "github-activity": "./bin/activity-cli.js"
   },
   "keywords": [],
   "author": "",
